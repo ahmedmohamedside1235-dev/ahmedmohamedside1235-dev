@@ -79,7 +79,7 @@
 • Improving my Frontend Development skills </p> 
 <hr>
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ahmedmohamedside1235-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -95,11 +95,23 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="70" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100047652064188">
-    <img src="https://skillicons.dev/icons?i=facebook" width="70" />
-  </a>
+<a href="https://www.facebook.com/profile.php?id=100047652064188">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="70" />
+</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmed-mohamed-19b35a3aa/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="70" />
   </a>
+</p>
+
+<hr>
+
+<h3 align="center">✨ Keep Learning • Keep Building • Keep Growing ✨</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+  🚀 Always striving to improve and build impactful projects
 </p>
