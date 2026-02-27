@@ -1,5 +1,3 @@
-1.add set time interval for slide
-
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1> <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&speed=40&color=00F7FF&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer&repeat=true">
 </p> <h2 align="">👨‍💻 About Me</h2> <p align=""> 
